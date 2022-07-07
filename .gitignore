@@ -147,6 +147,6 @@ fabric.properties
 .idea/hyuki-go-app.iml
 
 # no binaries
-*/
-!*.go/
-!.gitignore
+**/*
+!**/*.go
+!**/
